@@ -1,4 +1,4 @@
-# Dynamic Unrolling of Recurrent Convolutional Neural Networks
+# Dynamic Unrolling of Recurrent Convolutional Neural Networks(2020)
 
 Summary:
 The idea behind this model is to design a neural network model which consists of a convolutional layer, an LSTM layer and a dense layer.
