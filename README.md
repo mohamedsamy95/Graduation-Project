@@ -1,4 +1,4 @@
-# Graduation-Project
+# Dynamic Unrolling of Recurrent Convolutional Neural Networks
 
 Summary:
 The idea behind this model is to design a neural network model which consists of a convolutional layer, an LSTM layer and a dense layer.
